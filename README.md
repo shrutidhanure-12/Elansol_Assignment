@@ -24,14 +24,21 @@ This project is a basic setup for a React frontend with a Node.js backend.
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/your-username/](https://github.com/your-username/)[project-name].git
+   git clone https://github.com/shrutidhanure-12/Elansol_Assignment.git
 2. Install dependencies:
 npm install
-cd frontend1 && npm install
+cd frontend1  npm install
 3. Start the development server:
     Run the following command in your terminal:
-npm start
+```bash npm start
 This will typically launch the app in your default browser at http://localhost:3000/ (the port may vary).
+4. Start backend server
+ Run the following command in your terminal:
+```bash cd backend
+```bash npm install
+```bash node server.js
+
+this will spin up ypur backend server
 
 ![Screenshot 2024-07-01 010054](https://github.com/shrutidhanure-12/Elansol_Assignment/assets/91600085/9f8bfa52-5eeb-4f2e-81a4-b2c56023cbff)
 ![Screenshot 2024-07-01 004214](https://github.com/shrutidhanure-12/Elansol_Assignment/assets/91600085/d8f619a2-fa9b-43eb-9263-7fbde7901b24)
