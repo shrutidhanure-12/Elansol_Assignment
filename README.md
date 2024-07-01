@@ -16,8 +16,8 @@ This project is a basic setup for a React frontend with a Node.js backend.
    ```bash
    git clone https://github.com/shrutidhanure-12/Elansol_Assignment.git
 2. **Install dependencies:**
-   ```npm install
-  ````cd frontend1  npm install````
+   npm install
+   cd frontend1  npm install
 3. **Start the development server:**
 Run the following command in your terminal:
    ```npm start
@@ -25,8 +25,8 @@ Run the following command in your terminal:
 5. **Start backend server**
  Run the following command in your terminal:
    ```cd backend
-   ```npm install
-   ```node server.js
+   npm install
+   node server.js
 this will spin up your backend server
 
 **Technologies Used:**
