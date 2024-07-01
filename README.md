@@ -15,14 +15,13 @@ This project is a basic Login and Registration form using Node.js and React
 
 2.**Install dependencies:**
 ```markdown
-   ```bash
    cd frontend1
    npm install
+
 
 3.**Start the development server:**
 Run the following command in your terminal:
 ```markdown
-  ```bash
    npm start
 
 This will typically launch the app in your default browser at http://localhost:3000/ (the port may vary).
