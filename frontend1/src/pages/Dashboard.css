@@ -1,0 +1,72 @@
+.dashboard-container {
+    padding: 20px;
+    background-color: #f8f9fa;
+  }
+  
+  .dashboard-container h1 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .dashboard-table {
+    background-color: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  }
+  
+  .dashboard-table thead th {
+    background-color: #f8f9fa;
+    color: #6c757d;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 15px;
+    border: none;
+  }
+  
+  .dashboard-table tbody tr {
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  .dashboard-table tbody tr:last-child {
+    border-bottom: none;
+  }
+  
+  .dashboard-table tbody td {
+    padding: 15px;
+    vertical-align: middle;
+  }
+  
+  .user-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+    vertical-align: middle;
+  }
+  
+  .status-dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+  
+  .status-active {
+    background-color: #28a745;
+  }
+  
+  .status-suspended {
+    background-color: #dc3545;
+  }
+  
+  .status-inactive {
+    background-color: #ffc107;
+  }
+  
+  .action-icon {
+    font-size: 18px;
+    margin: 0 5px;
+    cursor: pointer;
+  }
