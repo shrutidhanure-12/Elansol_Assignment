@@ -18,11 +18,12 @@ This project is a basic setup for a React frontend with a Node.js backend.
 2. **Install dependencies:**
    ```npm install
    cd frontend1  npm install
-4. **Start the development server:**
+3. **Start the development server:**
    Run the following command in your terminal:
    ```npm start
-   This will typically launch the app in your default browser at http://localhost:3000/ (the port may vary).
-5. **Start backend server**
+   
+This will typically launch the app in your default browser at http://localhost:3000/ (the port may vary).
+. **Start backend server**
  Run the following command in your terminal:
    ```cd backend
    npm install
