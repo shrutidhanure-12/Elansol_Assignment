@@ -13,21 +13,21 @@ This project is a basic Login and Registration form using Node.js and React
    ```bash
    git clone https://github.com/shrutidhanure-12/Elansol_Assignment.git
 
-2.Install dependencies:
+2.**Install dependencies:**
 cd frontend1 && npm install
 
-3.Start the development server:
+3.**Start the development server:**
 Run the following command in your terminal:
-bash npm start
+npm start
 This will typically launch the app in your default browser at http://localhost:3000/ (the port may vary).
-4.Start backend server:
+4.**Start backend server:**
 Run the following commands in your terminal:
-bash cd backend
+cd backend
 npm install
 node server.js
 This will spin up your backend server.
 
-Technologies Used:
+**Technologies Used:**
 
 React
 Node.js
