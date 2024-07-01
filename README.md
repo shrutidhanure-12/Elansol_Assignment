@@ -1,42 +1,38 @@
-
 # React App with Node.js Backend
 
-This project is a basic Login and Registration form using Nodejs and React
+This project is a basic Login and Registration form using Node.js and React
 
 ## Project Structure
 
-- `fromtend1/`: React frontend
-- `backend`: Node.js backend server
+- `frontend1/`: React frontend
+- `backend/`: Node.js backend server
 
 ## Setup
-1. Install dependencies:
-   Here's basic code for a README.md file for a React app with a Node.js backend using a server.js file:
-markdownCopy# React App with Node.js Backend
 
-This project is a basic setup for a React frontend with a Node.js backend.
-
-## Project Structure
-
-- `client/`: React frontend
-- `server.js`: Node.js backend server
-
-## Setup
 1. **Clone the Repository:**
-
    ```bash
    git clone https://github.com/shrutidhanure-12/Elansol_Assignment.git
-2. Install dependencies:
-npm install
-cd frontend1  npm install
-3. Start the development server:
-    Run the following command in your terminal:
+
+2.Install dependencies:
+cd frontend1 && npm install
+
+3.Start the development server:
+Run the following command in your terminal:
 bash npm start
 This will typically launch the app in your default browser at http://localhost:3000/ (the port may vary).
-4. Start backend server
- Run the following command in your terminal:
+4.Start backend server:
+Run the following commands in your terminal:
 bash cd backend
-bash npm install
-bash node server.js
+npm install
+node server.js
+This will spin up your backend server.
+
+Technologies Used:
+
+React
+Node.js
+Express
+Mongodb
 
 this will spin up ypur backend server
 ![Screenshot 2024-07-01 010054](https://github.com/shrutidhanure-12/Elansol_Assignment/assets/91600085/9f8bfa52-5eeb-4f2e-81a4-b2c56023cbff)
