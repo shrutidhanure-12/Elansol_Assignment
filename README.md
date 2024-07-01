@@ -18,8 +18,9 @@ This project is a basic Login and Registration form using Node.js and React
 
 3.**Start the development server:**
 Run the following command in your terminal:
-```npm start```
+````npm start````
 This will typically launch the app in your default browser at http://localhost:3000/ (the port may vary).
+
 4.**Start backend server:**
 Run the following commands in your terminal:
 ```cd backend```
