@@ -19,23 +19,18 @@ This project is a basic setup for a React frontend with a Node.js backend.
    ```npm install
    cd frontend1  npm install
 3. **Start the development server:**
-   Run the following command in your terminal:
+Run the following command in your terminal:
    ```npm start
    
 This will typically launch the app in your default browser at http://localhost:3000/ (the port may vary).
-. **Start backend server**
+4. **Start backend server**
  Run the following command in your terminal:
    ```cd backend
    npm install
    node server.js
 this will spin up your backend server
 
-**Technologies Used:**
 
-React
-Node.js
-Express
-Mongodb
 
 this will spin up ypur backend server
 ![Screenshot 2024-07-01 010054](https://github.com/shrutidhanure-12/Elansol_Assignment/assets/91600085/9f8bfa52-5eeb-4f2e-81a4-b2c56023cbff)
